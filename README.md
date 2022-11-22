@@ -34,3 +34,15 @@ But there's always room to learn.
 - If you decide to do something a certain way, stick to it throughout the entire project. 
 - If you have no choice but to move away from your original choice, explain why in the comments.
 
+
+# Examples
+
+![image](https://user-images.githubusercontent.com/17493162/203430220-60b1c682-3b5d-4f2e-a829-da305f65e5f2.png)
+
+![image](https://user-images.githubusercontent.com/17493162/203430479-e03a03dd-7ecd-4c32-80ff-2f7c9c0f49e0.png)
+
+![image](https://user-images.githubusercontent.com/17493162/203430555-5dd9b8a0-cf0e-4dd9-8d2c-2d1bdf02187e.png)
+
+![image](https://user-images.githubusercontent.com/17493162/203430831-b2d949dd-b69b-4835-a181-af50167b197d.png)
+
+
